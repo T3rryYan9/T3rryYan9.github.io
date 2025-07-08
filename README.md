@@ -1,2 +1,2 @@
 # Shuwhits.github.io
-Portfolio Website for Randomly Exciting Projects Upon This Area Through Initiation On Neptune (REPUTATION)
+Portfolio Website for Researching Exploits, Penetration, and Understanding Tactics Across Targets Investigating Opsec & Networks (REPUTATION)
